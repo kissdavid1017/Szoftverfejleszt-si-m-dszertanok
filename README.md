@@ -1,3 +1,3 @@
-# Szoftverfejleszt-si-m-dszertanok
+# Szoftverfejlesztesi-modszertanok
 
 Szoftverfejlesztési módszertanok projekt,ami egy weboldalt fog megvalósítani...
